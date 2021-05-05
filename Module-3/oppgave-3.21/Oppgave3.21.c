@@ -1,4 +1,4 @@
-// Mariam Morjan
+
 // Moduel 3
 // Oppgave 3.21
 // Write a C program 
