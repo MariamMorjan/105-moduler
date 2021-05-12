@@ -1,4 +1,4 @@
-Oppgavebeskrivelse 
+Oppgavebeskrivelse:
 3.23 Section 3.6.1 describes port numbers below 1024 as being well known—that is, 
 they provide standard services. Port 17 is known as the quote-of-the-dayservice. 
 When a client connects to port 17 on a server, the server responds with aquote for that day. 
